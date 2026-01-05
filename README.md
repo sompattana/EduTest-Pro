@@ -213,3 +213,5 @@ Savollar va takliflar uchun issue oching yoki email yuboring.
 ---
 
 **EduTest Pro** - Bilimni tekshirish va sertifikatlash uchun professional platforma! 🎓
+
+<!-- Update 1 -->
