@@ -289,3 +289,5 @@ Savollar va takliflar uchun issue oching yoki email yuboring.
 <!-- Update 37 -->
 
 <!-- Update 38 -->
+
+<!-- Update 39 -->
