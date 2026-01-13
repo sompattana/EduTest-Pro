@@ -235,3 +235,5 @@ Savollar va takliflar uchun issue oching yoki email yuboring.
 <!-- Update 10 -->
 
 <!-- Update 11 -->
+
+<!-- Update 12 -->
